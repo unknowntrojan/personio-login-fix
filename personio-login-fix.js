@@ -1,9 +1,8 @@
 // ==UserScript==
 // @name         Personio Login Fix
-// @namespace    https://personio.com/
 // @version      0.1
 // @description  Fixes an issue when leaving a personio tab open, opening it again, and clicking login. It will redirect to a 401 Unauthorized page, requiring you to re-type the url or remove the query params.
-// @author       unknowntrojan
+// @author       unknowntrojan (https://github.com/unknowntrojan)
 // @include       *.personio.*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
 // @grant        none
